@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T05:51:14.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="xtNe2vm9cWvI3fzGAaaS" version="13.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-12T06:04:05.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="wI6cS_NQI34M45_T92N7" version="13.9.6" type="github" pages="3">
   <diagram id="oiIysxo4HwHov5_4s5s_" name="Page-1">
-    <mxGraphModel dx="956" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vwjPeKHSsgaMGzkiq3CO" name="Page-2">
-    <mxGraphModel dx="956" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SQewM1JKChauPCrSdGTx-0" />
         <mxCell id="SQewM1JKChauPCrSdGTx-1" parent="SQewM1JKChauPCrSdGTx-0" />
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="keyulQgWN0JWCjl1FgPA-42" value="Github Security" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/network-and-communications-10/32/network_Bug_quality_assurance_search_testing-128.png;strokeWidth=1;" vertex="1" parent="keyulQgWN0JWCjl1FgPA-1">
           <mxGeometry x="268.43" y="45" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="x7WiojGjn5yyb3k07OeK-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;background-color: rgb(0 , 0 , 255)&quot;&gt;IDP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="keyulQgWN0JWCjl1FgPA-1">
+          <mxGeometry x="500" y="70" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
