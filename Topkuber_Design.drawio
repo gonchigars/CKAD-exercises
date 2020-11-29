@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:38:45.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Y3rt3xZst42kQJVEsdQS" version="13.10.0" type="github" pages="2"><diagram id="PpXCEsjR6pPxlbgcn5NM" name="Page-1">jZLBToQwEIafpkcToLuKV3HVw+5BMZh4a+hIGwtDukXApxfsAIubTbw07ffPTKf/lPGk7B6tqNUBJRgWBbJj/J5F0c1mM6wj6D3gt9yDwmrpUbiAVH8DwYBooyUcV4EO0Thdr2GOVQW5WzFhLbbrsA8061trUcAZSHNhzumblk55Gm+DhT+BLtR0cxiQUoopmMBRCYntCeI7xhOL6Pyu7BIwo3eTLz7v4YI6N2ahcv9JyF5e+3eeic/nJM/2gPG2OVxRlS9hGnrwHgtdUceun2yw2FQSxkoh43et0g7SWuSj2g5zH5hypSGZaoJ10F1sNpwtGL4OYAnO9kMIJUQxudb/ObfLEMLJWXUygGtiguZezKUXa4YNuTMdlyn8aidfme9+AA==</diagram><diagram id="EDYKL_lpXK6bw9eO3c80" name="Page-2">7Zhdb9owFIZ/TaTtYlViA4VLCt33tE5U2tSbyeBT4tXJiRynwH79TsAEEmcflQqo1W6Q/dqx8XOOXzsJ+ChZvjEiiz+hBB2wUC4DPg4Y60eMfkthtRH4gG+EuVFyI0U7YaJ+ghNDpxZKQl7raBG1VVldnGGawszWNGEMLurdblHXZ83EHDxhMhPaV78qaWO3rG6409+CmsfbmaPQtSRi29kJeSwkLvYkfhnwkUG0m1KyHIEu2W253Hzg+ejm25frq4/fryeTe9Dj9682g71+yCPVEgyk9nGHdsG9F7pwvMZALZiBcYu2qy1JWn9WFotED2cWTcAv7sFYRaw/iinoK8yVVZhSlylai8leh6FW87LBYkZqbBNNlYiKWFitUhhV0Q9JdH+KnoVlI4p/QRBVcaF8BkzAmhU9t6yCuxnH5TLrufpilxncSfFeUmy7CZeL82rkHW8qOOQPwM89/J9TyEtITfg0GO0YqlwsYmVhkolZ2bKgPVsHeih2gzq6qOuji1gLu/6h2HU8du/GVwHraZr4Ykrp25uXpciXmC9xD7iJMZkW+emAs06dOPeB94/Ju+vxxnSKwshyqQZ/lNuXhZEPEotUgnRb+1QwWSN9z1vSd9CCc3AonD0P5zWIhBQNQj5D7+2cN7y3f2LvPX863tvp/kP2HtV8+8/cfHthnXjLaXdU8x08ZfPt9hvpOzi1+W7vgXs8q7T0cpdmqEQPMKGydYq5NXhHpqpLlx6nmJbGcau0bkjC2fKM0IJp8etESal/5zr1wB4qclHj2Gzx7E5L3NjB4uZfQry4sf9xY93Gi07Lhjtu3PzbzlAmKiXmYn1tYeEdrM7O/LPBV9YHTTgcrz8k3EH6IipXgYV5efYH+4tOZ3+8aX9+MFj4ODcfqu6+R6zb9j7q8Mtf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-29T12:47:32.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="W5QHuyIgDfsAJPy8ai3e" version="13.10.0" type="github" pages="2">
+  <diagram id="PpXCEsjR6pPxlbgcn5NM" name="Page-1">
+    <mxGraphModel dx="744" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-5" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Linux Terminal connecting to VM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-7" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="155" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="120" y="155" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-10" value="Notepad icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EDYKL_lpXK6bw9eO3c80" name="Page-2">
+    <mxGraphModel dx="812" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-0" />
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-1" parent="ZK3sCZXQTPL_TSSvelDJ-0" />
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-2" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="110" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-3" value="Onestop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="90" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-4" value="IDP&lt;br&gt;1&lt;br&gt;2&lt;br&gt;3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="240" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-5" value="onboard project 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="220" y="170" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-6" value="Team lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="470" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-7" value="Onestop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="450" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-8" value="IDP&lt;br&gt;1&lt;br&gt;2&lt;br&gt;3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="600" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-9" value="onboard project 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="580" y="190" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-10" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="120" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-15" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="510" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZK3sCZXQTPL_TSSvelDJ-16" value="Adminstration key..&lt;br&gt;&lt;br&gt;IDP AD token(1 hour)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZK3sCZXQTPL_TSSvelDJ-1">
+          <mxGeometry x="380" y="10" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
