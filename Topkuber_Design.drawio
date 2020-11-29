@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T12:47:32.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="W5QHuyIgDfsAJPy8ai3e" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-29T13:16:00.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="_xPNhQJUcQZj3802gZW5" version="13.10.0" type="github" pages="2">
   <diagram id="PpXCEsjR6pPxlbgcn5NM" name="Page-1">
     <mxGraphModel dx="744" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,9 +11,9 @@
           <mxGeometry x="110" y="60" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="1RYoB_2Nx6tBGsDQP7-6-5" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="40" height="20" as="geometry" />
+          <mxGeometry x="150" y="80" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Linux Terminal connecting to VM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Linux Terminal connecting to VM (in Linode.&lt;br&gt;If in active for 15 minutes VM should get destroyed.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1RYoB_2Nx6tBGsDQP7-6-7" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="1RYoB_2Nx6tBGsDQP7-6-10" value="Notepad icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-11" value="Next Button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="165" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-13" value="Verify" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
