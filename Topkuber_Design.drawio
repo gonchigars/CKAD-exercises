@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T05:45:29.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LQ_ThjzgCnaESbT7rssR" version="13.11.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-19T06:13:20.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Y_etZSUGKZ0wlQitmhW6" version="13.11.0" type="github" pages="6">
   <diagram id="ruKZuy17eaMCLyUap-9D" name="Landing_Page_1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,65 @@
         </mxCell>
         <mxCell id="lrOS4c1DnOQpwoG6Oc19-4" value="TOPKUBER(logo)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="53pnw-rRYXLWrmrCRpAf-1">
           <mxGeometry x="180" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PpXCEsjR6pPxlbgcn5NM" name="Lab_Page">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="25" width="530" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="60" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="60" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-5" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Linux Terminal connecting to VM (in Linode.&lt;br&gt;If in active for 15 minutes VM should get destroyed.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-7" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="155" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="120" y="155" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-10" value="Notepad icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="450" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-11" value="Next Button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="165" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-13" value="Verify" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="140" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-2" value="Section#1 Chapter#3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-3" value="Verify Button when pressed should execute shell scrip in the terminal to verify student answer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="290" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-4" value="" style="endArrow=classic;html=1;" parent="1" source="go2YiK0AYcEDLqCXdaPG-3" target="1RYoB_2Nx6tBGsDQP7-6-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="190" as="sourcePoint" />
+            <mxPoint x="450" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="go2YiK0AYcEDLqCXdaPG-5" target="1RYoB_2Nx6tBGsDQP7-6-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="go2YiK0AYcEDLqCXdaPG-5" value="should be able to add questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="30" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6kph45uZexeKfHGDd3z-1" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="140" y="255" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -150,65 +209,6 @@
         </mxCell>
         <mxCell id="q5T8QXClEOmsBpuLgTZl-0" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;" parent="ZK3sCZXQTPL_TSSvelDJ-1" vertex="1">
           <mxGeometry x="570" y="200" width="70" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="PpXCEsjR6pPxlbgcn5NM" name="Lab_Page">
-    <mxGraphModel dx="744" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="25" width="530" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="240" y="60" width="280" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="60" width="120" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-5" value="Questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="80" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Linux Terminal connecting to VM (in Linode.&lt;br&gt;If in active for 15 minutes VM should get destroyed.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="140" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-7" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="155" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-8" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="120" y="155" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-10" value="Notepad icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="430" y="70" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-11" value="Next Button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="165" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1RYoB_2Nx6tBGsDQP7-6-13" value="Verify" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="140" y="230" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-2" value="Section#1 Chapter#3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="30" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-3" value="Verify Button when pressed should execute shell scrip in the terminal to verify student answer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="290" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-4" value="" style="endArrow=classic;html=1;" parent="1" source="go2YiK0AYcEDLqCXdaPG-3" target="1RYoB_2Nx6tBGsDQP7-6-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="190" as="sourcePoint" />
-            <mxPoint x="450" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="go2YiK0AYcEDLqCXdaPG-5" target="1RYoB_2Nx6tBGsDQP7-6-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="go2YiK0AYcEDLqCXdaPG-5" value="should be able to add questions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="30" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="B6kph45uZexeKfHGDd3z-1" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="140" y="255" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
