@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T06:13:20.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Y_etZSUGKZ0wlQitmhW6" version="13.11.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-19T06:15:54.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MyUQIoQ5-UTFuSrBpNJ-" version="13.11.0" type="github" pages="6">
   <diagram id="ruKZuy17eaMCLyUap-9D" name="Landing_Page_1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="B6kph45uZexeKfHGDd3z-1" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="140" y="255" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DjMgjdKWkek06hkg_HPu-1" value="Explainer video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
